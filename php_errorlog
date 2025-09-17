@@ -1,0 +1,11 @@
+[06-Sep-2025 21:27:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 've@gmail.com' for key 'users.email' in /home/customer/www/rsoa170.rehanacademy.net/public_html/mturk/signup.php:13
+Stack trace:
+#0 /home/customer/www/rsoa170.rehanacademy.net/public_html/mturk/signup.php(13): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/customer/www/rsoa170.rehanacademy.net/public_html/mturk/signup.php on line 13
+[06-Sep-2025 21:29:35 UTC] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/customer/www/rsoa170.rehanacademy.net/public_html/mturk/signup.php on line 9
+[06-Sep-2025 21:29:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 've@gmail.com' for key 'users.email' in /home/customer/www/rsoa170.rehanacademy.net/public_html/mturk/signup.php:32
+Stack trace:
+#0 /home/customer/www/rsoa170.rehanacademy.net/public_html/mturk/signup.php(32): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/customer/www/rsoa170.rehanacademy.net/public_html/mturk/signup.php on line 32
